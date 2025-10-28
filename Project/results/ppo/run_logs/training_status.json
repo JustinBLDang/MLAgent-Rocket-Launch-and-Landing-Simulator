@@ -1,0 +1,65 @@
+{
+    "RocketAgent": {
+        "checkpoints": [
+            {
+                "steps": 649996,
+                "file_path": "results\\ppo\\RocketAgent\\RocketAgent-649996.onnx",
+                "reward": 623.6817083860699,
+                "creation_time": 1754109264.321745,
+                "auxillary_file_paths": [
+                    "results\\ppo\\RocketAgent\\RocketAgent-649996.pt"
+                ]
+            },
+            {
+                "steps": 699959,
+                "file_path": "results\\ppo\\RocketAgent\\RocketAgent-699959.onnx",
+                "reward": 101.56060123443604,
+                "creation_time": 1754109358.6687422,
+                "auxillary_file_paths": [
+                    "results\\ppo\\RocketAgent\\RocketAgent-699959.pt"
+                ]
+            },
+            {
+                "steps": 749949,
+                "file_path": "results\\ppo\\RocketAgent\\RocketAgent-749949.onnx",
+                "reward": 846.9255205519656,
+                "creation_time": 1754109441.8975325,
+                "auxillary_file_paths": [
+                    "results\\ppo\\RocketAgent\\RocketAgent-749949.pt"
+                ]
+            },
+            {
+                "steps": 799970,
+                "file_path": "results\\ppo\\RocketAgent\\RocketAgent-799970.onnx",
+                "reward": 203.06766349077225,
+                "creation_time": 1754109536.0712676,
+                "auxillary_file_paths": [
+                    "results\\ppo\\RocketAgent\\RocketAgent-799970.pt"
+                ]
+            },
+            {
+                "steps": 844245,
+                "file_path": "results\\ppo\\RocketAgent\\RocketAgent-844245.onnx",
+                "reward": 780.7636515299479,
+                "creation_time": 1754109626.005624,
+                "auxillary_file_paths": [
+                    "results\\ppo\\RocketAgent\\RocketAgent-844245.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 844245,
+            "file_path": "results\\ppo\\RocketAgent.onnx",
+            "reward": 780.7636515299479,
+            "creation_time": 1754109626.005624,
+            "auxillary_file_paths": [
+                "results\\ppo\\RocketAgent\\RocketAgent-844245.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.7.0+cpu"
+    }
+}
